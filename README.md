@@ -9,3 +9,4 @@ This is the first website/webpage (eventually pages?) that I'm making. It's serv
 * Link to download resume
 * Brief bio
 * Additional pics
+* Contact info page

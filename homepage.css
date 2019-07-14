@@ -8,6 +8,10 @@ h1 {
 	color: rgb(0,0,0);
 }
 
+.title {
+	margin-top: 3%;
+}
+
 .center {
 	display: block;
 	margin-right: auto;
@@ -31,23 +35,27 @@ h1 {
 	width: 100%;
 }
 
+.navbarlink {
+	margin-right: auto;
+	margin-left: auto;
+	width: 10%;
+}
+
 .navbar a {
-	/*text-align: center;*/
-	width: 100px;
 	float: left;
 	display: block;
 	color: #000000;
 	font-family: verdana;
-	padding: 10px 12px;
+	padding-left: 7%;
+	padding-right: 7%;
+	padding-bottom: 6%;
+	padding-top: 6%;
 	text-decoration: none;
 	transition-duration: 2s;
 	text-align: center;
 }
 
 .navbar a:hover {
+	color: rgb(249, 175, 129);
 	background-color: rgb(165,199,255);
-}
-
-.main {
-	margin-top: 50px
 }
